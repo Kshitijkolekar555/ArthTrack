@@ -23,7 +23,7 @@ I also implemented filtering and basic insights such as highest spending categor
 ### 🖼 Screenshots 
 *(Check the `/Screenshots` directory for more)*
 ![Dashboard Preview](Screenshots/Screenshot%202026-04-05%20181305.png)
-
+![HomePage](Screenshots/Screenshot%202026-04-05%20180545.png)
 ---
 
 ## ✨ Assignment Requirement Mapping
